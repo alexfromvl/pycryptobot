@@ -6,4 +6,5 @@ class Exchange(Enum):
     COINBASEPRO = "coinbasepro"
     BINANCE = "binance"
     KUCOIN = "kucoin"
+    COINW = "coinw"
     DUMMY = "dummy"
